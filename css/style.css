@@ -51,7 +51,7 @@ button{
     transition: all 0.3s;
     overflow: hidden;
 
-    margin-left: 9%;
+    margin-left: auto;
 }
 
 
